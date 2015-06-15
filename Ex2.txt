@@ -1,0 +1,22 @@
+#Quiz 1 Ex_2
+
+! can be used to signify a method that mutates the caller or signify 'not'
+? is used for conditional tests
+
+1. what is != and where should you use it?
+using to test if a variable is 'not equal' used in conditional flow control
+
+2. put ! before something, like !user_name
+condition evaluates to true if not user_name
+
+3. put ! after something, like words.uniq!
+destructive, modifies words, removing duplicates
+
+4. put ? before something
+if statement shorthand
+
+5. put ? after something
+   part of method name
+
+6. put !! before something, like !!user_name
+  returns boolean value
